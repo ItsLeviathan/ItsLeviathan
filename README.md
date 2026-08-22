@@ -1,17 +1,10 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Gavriell C. Pangan — @ItsLeviathan" width="100%" />
+<img src="assets/profile.svg" alt="Gavriell C. Pangan — @ItsLeviathan — terminal profile and tech stack" width="100%" />
 
 [![Followers](https://img.shields.io/github/followers/ItsLeviathan?style=for-the-badge&color=39FF14&labelColor=05070a&logo=github&logoColor=39FF14&label=FOLLOWERS)](https://github.com/ItsLeviathan?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=ItsLeviathan&style=for-the-badge&color=00F5FF&labelColor=05070a&label=PROFILE+VIEWS)](https://github.com/ItsLeviathan)
 
-</div>
-
-<img src="assets/divider.svg" width="100%" />
-
-<div align="center">
-<img src="assets/skills.svg" alt="Tech Stack" width="100%" />
-<sub>&gt; currently leveling up: <b>machine learning / deep learning</b> &middot; <b>backend system design</b></sub>
 </div>
 
 <img src="assets/divider.svg" width="100%" />

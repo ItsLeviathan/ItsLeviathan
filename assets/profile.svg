@@ -1,0 +1,132 @@
+<svg width="900" height="856" viewBox="0 0 900 856" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+  <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#060a08"/>
+    <stop offset="55%" stop-color="#04070a"/>
+    <stop offset="100%" stop-color="#0a0512"/>
+  </linearGradient>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+    <path d="M 34 0 L 0 0 0 34" fill="none" stroke="#39FF14" stroke-width="0.5" opacity="0.07"/>
+  </pattern>
+  <filter id="glowGreen" x="-80%" y="-80%" width="260%" height="260%">
+    <feGaussianBlur stdDeviation="3" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="glowCyan" x="-80%" y="-80%" width="260%" height="260%">
+    <feGaussianBlur stdDeviation="2.2" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+
+<rect width="900" height="856" fill="url(#bgGrad)"/>
+<rect width="900" height="856" fill="url(#grid)"/>
+<rect x="4" y="4" width="892" height="848" fill="none" stroke="#39FF14" stroke-width="1" opacity="0.35"/>
+<g stroke="#39FF14" stroke-width="2.5" fill="none" opacity="0.9">
+  <path d="M14,34 L14,14 L34,14"/>
+  <path d="M866,14 L886,14 L886,34"/>
+  <path d="M886,822 L886,842 L866,842"/>
+  <path d="M34,842 L14,842 L14,822"/>
+</g>
+<circle cx="866" cy="26" r="4.5" fill="#39FF14">
+  <animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/>
+</circle>
+<text x="850" y="30" text-anchor="end" font-family="Courier New, monospace" font-size="11" fill="#39FF14" opacity="0.85">ONLINE</text>
+<text x="42" y="78" font-family="Courier New, monospace" font-weight="700" font-size="42" letter-spacing="1.5" fill="#39FF14" filter="url(#glowGreen)">GAVRIELL C. PANGAN</text>
+<text x="43" y="110" font-family="Courier New, monospace" font-weight="600" font-size="20" letter-spacing="3" fill="#00F5FF" filter="url(#glowCyan)">@ItsLeviathan</text>
+<text x="43" y="140" font-family="Courier New, monospace" font-size="14.5" fill="#c9d1d9">FULL-STACK DEVELOPER // WEB &#183; 3D &#183; AI &#183; GAME DEV</text>
+<line x1="43" y1="154" x2="857" y2="154" stroke="#39FF14" stroke-width="1" opacity="0.3"/>
+<rect x="43" y="161" width="3" height="15" fill="#39FF14" opacity="0.8"/>
+<text x="54" y="173" font-family="Courier New, monospace" font-size="13.5" fill="#9fb3ad">ROLE     :: <tspan fill="#e6faf0">BS COMPUTER SCIENCE STUDENT</tspan></text>
+<rect x="43" y="186" width="3" height="15" fill="#39FF14" opacity="0.8"/>
+<text x="54" y="198" font-family="Courier New, monospace" font-size="13.5" fill="#9fb3ad">LOCATION :: <tspan fill="#e6faf0">TERNATE, CAVITE, PHILIPPINES</tspan></text>
+<rect x="43" y="211" width="3" height="15" fill="#39FF14" opacity="0.8"/>
+<text x="54" y="223" font-family="Courier New, monospace" font-size="13.5" fill="#9fb3ad">STATUS   :: <tspan fill="#e6faf0">FOCUSING</tspan></text>
+<line x1="30" y1="234" x2="870" y2="234" stroke="url(#lineGrad)" stroke-width="1.2" opacity="0.5"/>
+<defs><linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+  <stop offset="0%" stop-color="#39FF14" stop-opacity="0"/>
+  <stop offset="50%" stop-color="#00F5FF" stop-opacity="0.9"/>
+  <stop offset="100%" stop-color="#FF2E97" stop-opacity="0"/>
+</linearGradient></defs>
+<polygon points="443.0,227 451.0,234 443.0,241 435.0,234" fill="#05070a" stroke="#00F5FF" stroke-width="1.4"/>
+<text x="43" y="256" font-family="Courier New, monospace" font-size="14" letter-spacing="2" fill="#00F5FF" filter="url(#glowCyan)">SKILLS.EXE</text>
+<text x="43" y="294.0" font-family="Courier New, monospace" font-size="11.5" letter-spacing="1.5" fill="#FF2E97" opacity="0.9">LANGUAGES</text>
+<polygon points="90.00,310.00 121.18,328.00 121.18,364.00 90.00,382.00 58.82,364.00 58.82,328.00" fill="#070d0b" stroke="#39FF14" stroke-width="1.6" filter="url(#glowCyan)"/>
+<polygon points="90.00,317.00 115.11,331.50 115.11,360.50 90.00,375.00 64.89,360.50 64.89,331.50" fill="none" stroke="#39FF14" stroke-width="0.6" opacity="0.35"/>
+<text x="90.0" y="351.0" text-anchor="middle" font-family="Courier New, monospace" font-weight="700" font-size="14.5" fill="#39FF14">JS</text>
+<text x="90.0" y="403.0" text-anchor="middle" font-family="Courier New, monospace" font-size="11" fill="#e6faf0">JavaScript</text>
+<polygon points="234.00,310.00 265.18,328.00 265.18,364.00 234.00,382.00 202.82,364.00 202.82,328.00" fill="#070d0b" stroke="#00F5FF" stroke-width="1.6" filter="url(#glowCyan)"/>
+<polygon points="234.00,317.00 259.11,331.50 259.11,360.50 234.00,375.00 208.89,360.50 208.89,331.50" fill="none" stroke="#00F5FF" stroke-width="0.6" opacity="0.35"/>
+<text x="234.0" y="351.0" text-anchor="middle" font-family="Courier New, monospace" font-weight="700" font-size="14.5" fill="#00F5FF">TS</text>
+<text x="234.0" y="403.0" text-anchor="middle" font-family="Courier New, monospace" font-size="11" fill="#e6faf0">TypeScript</text>
+<polygon points="378.00,310.00 409.18,328.00 409.18,364.00 378.00,382.00 346.82,364.00 346.82,328.00" fill="#070d0b" stroke="#39FF14" stroke-width="1.6" filter="url(#glowCyan)"/>
+<polygon points="378.00,317.00 403.11,331.50 403.11,360.50 378.00,375.00 352.89,360.50 352.89,331.50" fill="none" stroke="#39FF14" stroke-width="0.6" opacity="0.35"/>
+<text x="378.0" y="351.0" text-anchor="middle" font-family="Courier New, monospace" font-weight="700" font-size="14.5" fill="#39FF14">PY</text>
+<text x="378.0" y="403.0" text-anchor="middle" font-family="Courier New, monospace" font-size="11" fill="#e6faf0">Python</text>
+<polygon points="522.00,310.00 553.18,328.00 553.18,364.00 522.00,382.00 490.82,364.00 490.82,328.00" fill="#070d0b" stroke="#00F5FF" stroke-width="1.6" filter="url(#glowCyan)"/>
+<polygon points="522.00,317.00 547.11,331.50 547.11,360.50 522.00,375.00 496.89,360.50 496.89,331.50" fill="none" stroke="#00F5FF" stroke-width="0.6" opacity="0.35"/>
+<text x="522.0" y="351.0" text-anchor="middle" font-family="Courier New, monospace" font-weight="700" font-size="11.5" fill="#00F5FF">JAVA</text>
+<text x="522.0" y="403.0" text-anchor="middle" font-family="Courier New, monospace" font-size="11" fill="#e6faf0">Java</text>
+<polygon points="666.00,310.00 697.18,328.00 697.18,364.00 666.00,382.00 634.82,364.00 634.82,328.00" fill="#070d0b" stroke="#39FF14" stroke-width="1.6" filter="url(#glowCyan)"/>
+<polygon points="666.00,317.00 691.11,331.50 691.11,360.50 666.00,375.00 640.89,360.50 640.89,331.50" fill="none" stroke="#39FF14" stroke-width="0.6" opacity="0.35"/>
+<text x="666.0" y="351.0" text-anchor="middle" font-family="Courier New, monospace" font-weight="700" font-size="14.5" fill="#39FF14">PHP</text>
+<text x="666.0" y="403.0" text-anchor="middle" font-family="Courier New, monospace" font-size="11" fill="#e6faf0">PHP</text>
+<polygon points="810.00,310.00 841.18,328.00 841.18,364.00 810.00,382.00 778.82,364.00 778.82,328.00" fill="#070d0b" stroke="#00F5FF" stroke-width="1.6" filter="url(#glowCyan)"/>
+<polygon points="810.00,317.00 835.11,331.50 835.11,360.50 810.00,375.00 784.89,360.50 784.89,331.50" fill="none" stroke="#00F5FF" stroke-width="0.6" opacity="0.35"/>
+<text x="810.0" y="351.0" text-anchor="middle" font-family="Courier New, monospace" font-weight="700" font-size="11.5" fill="#00F5FF">DART</text>
+<text x="810.0" y="403.0" text-anchor="middle" font-family="Courier New, monospace" font-size="11" fill="#e6faf0">Dart</text>
+<text x="43" y="446.0" font-family="Courier New, monospace" font-size="11.5" letter-spacing="1.5" fill="#FF2E97" opacity="0.9">FRAMEWORKS / RUNTIME</text>
+<polygon points="90.00,462.00 121.18,480.00 121.18,516.00 90.00,534.00 58.82,516.00 58.82,480.00" fill="#070d0b" stroke="#00F5FF" stroke-width="1.6" filter="url(#glowCyan)"/>
+<polygon points="90.00,469.00 115.11,483.50 115.11,512.50 90.00,527.00 64.89,512.50 64.89,483.50" fill="none" stroke="#00F5FF" stroke-width="0.6" opacity="0.35"/>
+<text x="90.0" y="503.0" text-anchor="middle" font-family="Courier New, monospace" font-weight="700" font-size="14.5" fill="#00F5FF">RCT</text>
+<text x="90.0" y="555.0" text-anchor="middle" font-family="Courier New, monospace" font-size="11" fill="#e6faf0">React</text>
+<polygon points="234.00,462.00 265.18,480.00 265.18,516.00 234.00,534.00 202.82,516.00 202.82,480.00" fill="#070d0b" stroke="#39FF14" stroke-width="1.6" filter="url(#glowCyan)"/>
+<polygon points="234.00,469.00 259.11,483.50 259.11,512.50 234.00,527.00 208.89,512.50 208.89,483.50" fill="none" stroke="#39FF14" stroke-width="0.6" opacity="0.35"/>
+<text x="234.0" y="503.0" text-anchor="middle" font-family="Courier New, monospace" font-weight="700" font-size="14.5" fill="#39FF14">NXT</text>
+<text x="234.0" y="555.0" text-anchor="middle" font-family="Courier New, monospace" font-size="11" fill="#e6faf0">Next.js</text>
+<polygon points="378.00,462.00 409.18,480.00 409.18,516.00 378.00,534.00 346.82,516.00 346.82,480.00" fill="#070d0b" stroke="#00F5FF" stroke-width="1.6" filter="url(#glowCyan)"/>
+<polygon points="378.00,469.00 403.11,483.50 403.11,512.50 378.00,527.00 352.89,512.50 352.89,483.50" fill="none" stroke="#00F5FF" stroke-width="0.6" opacity="0.35"/>
+<text x="378.0" y="503.0" text-anchor="middle" font-family="Courier New, monospace" font-weight="700" font-size="11.5" fill="#00F5FF">NODE</text>
+<text x="378.0" y="555.0" text-anchor="middle" font-family="Courier New, monospace" font-size="11" fill="#e6faf0">Node.js</text>
+<polygon points="522.00,462.00 553.18,480.00 553.18,516.00 522.00,534.00 490.82,516.00 490.82,480.00" fill="#070d0b" stroke="#39FF14" stroke-width="1.6" filter="url(#glowCyan)"/>
+<polygon points="522.00,469.00 547.11,483.50 547.11,512.50 522.00,527.00 496.89,512.50 496.89,483.50" fill="none" stroke="#39FF14" stroke-width="0.6" opacity="0.35"/>
+<text x="522.0" y="503.0" text-anchor="middle" font-family="Courier New, monospace" font-weight="700" font-size="11.5" fill="#39FF14">EXPR</text>
+<text x="522.0" y="555.0" text-anchor="middle" font-family="Courier New, monospace" font-size="11" fill="#e6faf0">Express</text>
+<polygon points="666.00,462.00 697.18,480.00 697.18,516.00 666.00,534.00 634.82,516.00 634.82,480.00" fill="#070d0b" stroke="#00F5FF" stroke-width="1.6" filter="url(#glowCyan)"/>
+<polygon points="666.00,469.00 691.11,483.50 691.11,512.50 666.00,527.00 640.89,512.50 640.89,483.50" fill="none" stroke="#00F5FF" stroke-width="0.6" opacity="0.35"/>
+<text x="666.0" y="503.0" text-anchor="middle" font-family="Courier New, monospace" font-weight="700" font-size="11.5" fill="#00F5FF">FLTR</text>
+<text x="666.0" y="555.0" text-anchor="middle" font-family="Courier New, monospace" font-size="11" fill="#e6faf0">Flutter</text>
+<polygon points="810.00,462.00 841.18,480.00 841.18,516.00 810.00,534.00 778.82,516.00 778.82,480.00" fill="#070d0b" stroke="#39FF14" stroke-width="1.6" filter="url(#glowCyan)"/>
+<polygon points="810.00,469.00 835.11,483.50 835.11,512.50 810.00,527.00 784.89,512.50 784.89,483.50" fill="none" stroke="#39FF14" stroke-width="0.6" opacity="0.35"/>
+<text x="810.0" y="503.0" text-anchor="middle" font-family="Courier New, monospace" font-weight="700" font-size="11.5" fill="#39FF14">GDOT</text>
+<text x="810.0" y="555.0" text-anchor="middle" font-family="Courier New, monospace" font-size="11" fill="#e6faf0">Godot</text>
+<text x="43" y="598.0" font-family="Courier New, monospace" font-size="11.5" letter-spacing="1.5" fill="#FF2E97" opacity="0.9">DATA, TOOLS &amp; 3D</text>
+<polygon points="90.00,614.00 121.18,632.00 121.18,668.00 90.00,686.00 58.82,668.00 58.82,632.00" fill="#070d0b" stroke="#39FF14" stroke-width="1.6" filter="url(#glowCyan)"/>
+<polygon points="90.00,621.00 115.11,635.50 115.11,664.50 90.00,679.00 64.89,664.50 64.89,635.50" fill="none" stroke="#39FF14" stroke-width="0.6" opacity="0.35"/>
+<text x="90.0" y="655.0" text-anchor="middle" font-family="Courier New, monospace" font-weight="700" font-size="14.5" fill="#39FF14">SQL</text>
+<text x="90.0" y="707.0" text-anchor="middle" font-family="Courier New, monospace" font-size="11" fill="#e6faf0">MySQL</text>
+<polygon points="234.00,614.00 265.18,632.00 265.18,668.00 234.00,686.00 202.82,668.00 202.82,632.00" fill="#070d0b" stroke="#00F5FF" stroke-width="1.6" filter="url(#glowCyan)"/>
+<polygon points="234.00,621.00 259.11,635.50 259.11,664.50 234.00,679.00 208.89,664.50 208.89,635.50" fill="none" stroke="#00F5FF" stroke-width="0.6" opacity="0.35"/>
+<text x="234.0" y="655.0" text-anchor="middle" font-family="Courier New, monospace" font-weight="700" font-size="14.5" fill="#00F5FF">MDB</text>
+<text x="234.0" y="707.0" text-anchor="middle" font-family="Courier New, monospace" font-size="11" fill="#e6faf0">MongoDB</text>
+<polygon points="378.00,614.00 409.18,632.00 409.18,668.00 378.00,686.00 346.82,668.00 346.82,632.00" fill="#070d0b" stroke="#39FF14" stroke-width="1.6" filter="url(#glowCyan)"/>
+<polygon points="378.00,621.00 403.11,635.50 403.11,664.50 378.00,679.00 352.89,664.50 352.89,635.50" fill="none" stroke="#39FF14" stroke-width="0.6" opacity="0.35"/>
+<text x="378.0" y="655.0" text-anchor="middle" font-family="Courier New, monospace" font-weight="700" font-size="11.5" fill="#39FF14">FIRE</text>
+<text x="378.0" y="707.0" text-anchor="middle" font-family="Courier New, monospace" font-size="11" fill="#e6faf0">Firebase</text>
+<polygon points="522.00,614.00 553.18,632.00 553.18,668.00 522.00,686.00 490.82,668.00 490.82,632.00" fill="#070d0b" stroke="#00F5FF" stroke-width="1.6" filter="url(#glowCyan)"/>
+<polygon points="522.00,621.00 547.11,635.50 547.11,664.50 522.00,679.00 496.89,664.50 496.89,635.50" fill="none" stroke="#00F5FF" stroke-width="0.6" opacity="0.35"/>
+<text x="522.0" y="655.0" text-anchor="middle" font-family="Courier New, monospace" font-weight="700" font-size="14.5" fill="#00F5FF">GIT</text>
+<text x="522.0" y="707.0" text-anchor="middle" font-family="Courier New, monospace" font-size="11" fill="#e6faf0">Git</text>
+<polygon points="666.00,614.00 697.18,632.00 697.18,668.00 666.00,686.00 634.82,668.00 634.82,632.00" fill="#070d0b" stroke="#39FF14" stroke-width="1.6" filter="url(#glowCyan)"/>
+<polygon points="666.00,621.00 691.11,635.50 691.11,664.50 666.00,679.00 640.89,664.50 640.89,635.50" fill="none" stroke="#39FF14" stroke-width="0.6" opacity="0.35"/>
+<text x="666.0" y="655.0" text-anchor="middle" font-family="Courier New, monospace" font-weight="700" font-size="14.5" fill="#39FF14">3JS</text>
+<text x="666.0" y="707.0" text-anchor="middle" font-family="Courier New, monospace" font-size="11" fill="#e6faf0">Three.js</text>
+<polygon points="810.00,614.00 841.18,632.00 841.18,668.00 810.00,686.00 778.82,668.00 778.82,632.00" fill="#070d0b" stroke="#00F5FF" stroke-width="1.6" filter="url(#glowCyan)"/>
+<polygon points="810.00,621.00 835.11,635.50 835.11,664.50 810.00,679.00 784.89,664.50 784.89,635.50" fill="none" stroke="#00F5FF" stroke-width="0.6" opacity="0.35"/>
+<text x="810.0" y="655.0" text-anchor="middle" font-family="Courier New, monospace" font-weight="700" font-size="11.5" fill="#00F5FF">BLND</text>
+<text x="810.0" y="707.0" text-anchor="middle" font-family="Courier New, monospace" font-size="11" fill="#e6faf0">Blender</text>
+<line x1="30" y1="760" x2="870" y2="760" stroke="#39FF14" stroke-width="1" opacity="0.25"/>
+<text x="43" y="786" font-family="Courier New, monospace" font-size="12.5" fill="#9fb3ad">&gt; currently leveling up: <tspan fill="#e6faf0">MACHINE LEARNING / DEEP LEARNING</tspan> &#183; <tspan fill="#e6faf0">BACKEND SYSTEM DESIGN</tspan></text>
+<text x="43" y="812" font-family="Courier New, monospace" font-size="14" fill="#39FF14" opacity="0.9">ItsLeviathan@github:~$</text>
+<rect x="238" y="800" width="9" height="15" fill="#39FF14"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+</svg>
