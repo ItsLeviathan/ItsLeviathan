@@ -16,40 +16,6 @@
 
 <img src="assets/divider.svg" width="100%" />
 
-## `ItsLeviathan@github:~$ ls -la projects/`
-
-**🐟 [CvSUHimay](https://github.com/ItsLeviathan/CvSUHimay)**
-Undergraduate thesis (BSCS, CvSU–Naic) — a gamified e-learning platform with a browser-based 3D bangus deboning simulation driven by a 17-state Mealy FSM, plus quizzes, XP/achievements, and instructor analytics dashboards.
-`React 19` `Three.js / R3F` `Node.js` `Express` `MySQL`
-![Top Lang](https://img.shields.io/github/languages/top/ItsLeviathan/CvSUHimay?style=flat-square&color=39FF14&labelColor=05070a)
-![Stars](https://img.shields.io/github/stars/ItsLeviathan/CvSUHimay?style=flat-square&color=00F5FF&labelColor=05070a)
-![Forks](https://img.shields.io/github/forks/ItsLeviathan/CvSUHimay?style=flat-square&color=FF2E97&labelColor=05070a)
-
-**⏰ [GetUp](https://github.com/ItsLeviathan/GetUp)**
-An alarm app that forces you out of bed — dismiss it only by photographing a random bathroom item, verified live with on-device AI object detection.
-`React Native (Expo)` `TypeScript`
-![Top Lang](https://img.shields.io/github/languages/top/ItsLeviathan/GetUp?style=flat-square&color=39FF14&labelColor=05070a)
-![Stars](https://img.shields.io/github/stars/ItsLeviathan/GetUp?style=flat-square&color=00F5FF&labelColor=05070a)
-![Forks](https://img.shields.io/github/forks/ItsLeviathan/GetUp?style=flat-square&color=FF2E97&labelColor=05070a)
-
-**📁 [ODCI Document Management System](https://github.com/ItsLeviathan/ODCI-Document-Management-System)**
-Web platform for organizing, storing, and retrieving digital records — centralizes document workflow and cuts down on manual paperwork.
-`PHP` `JavaScript` `CSS`
-![Top Lang](https://img.shields.io/github/languages/top/ItsLeviathan/ODCI-Document-Management-System?style=flat-square&color=39FF14&labelColor=05070a)
-![Stars](https://img.shields.io/github/stars/ItsLeviathan/ODCI-Document-Management-System?style=flat-square&color=00F5FF&labelColor=05070a)
-![Forks](https://img.shields.io/github/forks/ItsLeviathan/ODCI-Document-Management-System?style=flat-square&color=FF2E97&labelColor=05070a)
-
-**💰 [Expense Management System](https://github.com/ItsLeviathan/Expense-Management-System)**
-Offline, database-powered expense tracker built for a Municipal Treasurer's Office — categorizes entries by fund type, bank, office, and expense type, with monthly report export.
-`PHP` `MySQL`
-![Top Lang](https://img.shields.io/github/languages/top/ItsLeviathan/Expense-Management-System?style=flat-square&color=39FF14&labelColor=05070a)
-![Stars](https://img.shields.io/github/stars/ItsLeviathan/Expense-Management-System?style=flat-square&color=00F5FF&labelColor=05070a)
-![Forks](https://img.shields.io/github/forks/ItsLeviathan/Expense-Management-System?style=flat-square&color=FF2E97&labelColor=05070a)
-
-<div align="center"><sub><a href="https://github.com/ItsLeviathan?tab=repositories">→ view all repositories</a></sub></div>
-
-<img src="assets/divider.svg" width="100%" />
-
 ## `ItsLeviathan@github:~$ git log --stat`
 
 <div align="center">

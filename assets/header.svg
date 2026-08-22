@@ -1,0 +1,75 @@
+<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#060a08"/>
+      <stop offset="55%" stop-color="#04070a"/>
+      <stop offset="100%" stop-color="#0a0512"/>
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M 34 0 L 0 0 0 34" fill="none" stroke="#39FF14" stroke-width="0.5" opacity="0.08"/>
+    </pattern>
+    <filter id="glowGreen" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="glowCyan" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="300" fill="url(#bgGrad)"/>
+  <rect width="900" height="300" fill="url(#grid)"/>
+
+  <!-- outer frame -->
+  <rect x="4" y="4" width="892" height="292" fill="none" stroke="#39FF14" stroke-width="1" opacity="0.35"/>
+
+  <!-- corner HUD brackets -->
+  <g stroke="#39FF14" stroke-width="2.5" fill="none" opacity="0.9">
+    <path d="M14,34 L14,14 L34,14"/>
+    <path d="M866,14 L886,14 L886,34"/>
+    <path d="M886,266 L886,286 L866,286"/>
+    <path d="M34,286 L14,286 L14,266"/>
+  </g>
+
+  <!-- status dot -->
+  <circle cx="866" cy="26" r="4.5" fill="#39FF14">
+    <animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="850" y="30" text-anchor="end" font-family="'Courier New',monospace" font-size="11" fill="#39FF14" opacity="0.85">ONLINE</text>
+
+  <!-- title -->
+  <text x="42" y="98" font-family="'Courier New',monospace" font-weight="700" font-size="44" letter-spacing="1.5" fill="#39FF14" filter="url(#glowGreen)">GAVRIELL C. PANGAN</text>
+  <text x="43" y="132" font-family="'Courier New',monospace" font-weight="600" font-size="21" letter-spacing="3" fill="#00F5FF" filter="url(#glowCyan)">@ItsLeviathan</text>
+
+  <!-- tagline -->
+  <text x="43" y="163" font-family="'Courier New',monospace" font-size="15" fill="#c9d1d9">FULL-STACK DEVELOPER // WEB &#183; 3D &#183; AI &#183; GAME DEV</text>
+
+  <!-- divider -->
+  <line x1="43" y1="178" x2="857" y2="178" stroke="#39FF14" stroke-width="1" opacity="0.3"/>
+
+  <!-- HUD readout -->
+  <g font-family="'Courier New',monospace" font-size="14" fill="#9fb3ad">
+    <rect x="43" y="196" width="3" height="15" fill="#39FF14" opacity="0.8"/>
+    <text x="54" y="208">ROLE      :: <tspan fill="#e6faf0">BS COMPUTER SCIENCE STUDENT</tspan></text>
+
+    <rect x="43" y="221" width="3" height="15" fill="#39FF14" opacity="0.8"/>
+    <text x="54" y="233">LOCATION  :: <tspan fill="#e6faf0">TERNATE, CAVITE, PHILIPPINES</tspan></text>
+
+    <rect x="43" y="246" width="3" height="15" fill="#39FF14" opacity="0.8"/>
+    <text x="54" y="258">STATUS    :: <tspan fill="#e6faf0">FOCUSING</tspan></text>
+  </g>
+
+  <!-- prompt line with blinking cursor -->
+  <text x="43" y="283" font-family="'Courier New',monospace" font-size="14" fill="#39FF14" opacity="0.9">ItsLeviathan@github:~$</text>
+  <rect x="238" y="271" width="9" height="15" fill="#39FF14">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
