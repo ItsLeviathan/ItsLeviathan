@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 720" width="1600" height="720">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#16331a" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="720" fill="#050705"/>
+  <rect width="1600" height="720" fill="url(#grid)" opacity=".45"/>
+
+  <g fill="#78e05a" font-family="monospace">
+    <text x="48" y="54" font-size="22">L3V1TH5N@github:~$ whoami</text>
+    <text x="48" y="105" font-size="52" font-weight="700" fill="#f1f1f1">GAVRIELL</text>
+    <text x="48" y="158" font-size="52" font-weight="700">C. PANGAN</text>
+    <text x="50" y="198" font-size="20" fill="#b9b9b9">@L3V1TH5N</text>
+
+    <rect x="48" y="225" width="390" height="2" fill="#78e05a" opacity=".5"/>
+    <text x="48" y="265" font-size="18">&gt; COMPUTER SCIENCE STUDENT</text>
+    <text x="48" y="298" font-size="18">&gt; FULL-STACK DEVELOPER</text>
+    <text x="48" y="331" font-size="18">&gt; CREATIVE TECHNOLOGIST</text>
+
+    <text x="48" y="390" font-size="17" fill="#b9b9b9">I build web applications, interactive</text>
+    <text x="48" y="416" font-size="17" fill="#b9b9b9">3D experiences, AI-powered tools,</text>
+    <text x="48" y="442" font-size="17" fill="#b9b9b9">and experimental digital projects.</text>
+  </g>
+
+  <!-- terminal portrait / abstract character -->
+  <g transform="translate(520,70)" font-family="monospace" text-anchor="middle" filter="url(#glow)">
+    <circle cx="280" cy="290" r="245" fill="none" stroke="#78e05a" stroke-width="2" opacity=".35"/>
+    <circle cx="280" cy="290" r="218" fill="none" stroke="#78e05a" stroke-width="1" stroke-dasharray="5 12" opacity=".5"/>
+    <path d="M115 545 Q140 390 210 350 Q280 315 350 350 Q420 390 445 545" fill="none" stroke="#e9e9e9" stroke-width="8"/>
+    <ellipse cx="280" cy="270" rx="120" ry="145" fill="none" stroke="#e9e9e9" stroke-width="7"/>
+    <path d="M160 250 Q280 155 400 250" fill="none" stroke="#e9e9e9" stroke-width="10"/>
+    <path d="M205 295 L250 300 M310 300 L355 295" stroke="#78e05a" stroke-width="8"/>
+    <path d="M250 360 Q280 378 310 360" fill="none" stroke="#78e05a" stroke-width="6"/>
+    <path d="M180 405 Q280 450 380 405" fill="none" stroke="#e9e9e9" stroke-width="6"/>
+    <g fill="#78e05a" font-size="18" opacity=".9">
+      <text x="280" y="80">01100101 01001110</text>
+      <text x="75" y="160">0101</text><text x="485" y="175">1010</text>
+      <text x="40" y="330">0110</text><text x="520" y="350">1101</text>
+      <text x="90" y="500">101001</text><text x="475" y="510">001101</text>
+    </g>
+    <text x="280" y="610" fill="#78e05a" font-size="20">STATUS: BUILDING THE FUTURE...</text>
+  </g>
+
+  <g transform="translate(1090,60)" font-family="monospace">
+    <text x="0" y="0" font-size="22" fill="#78e05a">&gt; SKILLS.EXE</text>
+    <g fill="none" stroke="#78e05a" stroke-width="2" opacity=".85">
+      <polygon points="80,55 125,80 125,130 80,155 35,130 35,80"/>
+      <polygon points="250,55 295,80 295,130 250,155 205,130 205,80"/>
+      <polygon points="420,55 465,80 465,130 420,155 375,130 375,80"/>
+    </g>
+    <g fill="#e8e8e8" font-size="17" text-anchor="middle">
+      <text x="80" y="112">WEB</text><text x="250" y="112">3D</text><text x="420" y="112">AI</text>
+      <text x="80" y="178">REACT</text><text x="250" y="178">NEXT.JS</text><text x="420" y="178">NODE</text>
+    </g>
+
+    <rect x="0" y="220" width="450" height="220" fill="none" stroke="#78e05a" opacity=".55"/>
+    <text x="20" y="250" fill="#78e05a" font-size="18">L3V1TH5N@github:~$ focus.sh</text>
+    <text x="20" y="285" fill="#bdbdbd" font-size="16">&gt; building immersive web experiences</text>
+    <text x="20" y="315" fill="#bdbdbd" font-size="16">&gt; learning advanced machine learning</text>
+    <text x="20" y="345" fill="#bdbdbd" font-size="16">&gt; experimenting with 3D &amp; game dev</text>
+    <text x="20" y="375" fill="#bdbdbd" font-size="16">&gt; improving full-stack architecture</text>
+    <text x="20" y="410" fill="#78e05a" font-size="16">[██████████████░░░░░░] 70%</text>
+
+    <text x="0" y="490" fill="#78e05a" font-size="22">&gt; PROJECTS_DIR</text>
+    <text x="0" y="525" fill="#bdbdbd" font-size="16">01  CvSUHimay</text>
+    <text x="0" y="553" fill="#bdbdbd" font-size="16">02  Unsent</text>
+    <text x="0" y="581" fill="#bdbdbd" font-size="16">03  GetUp</text>
+    <text x="0" y="609" fill="#bdbdbd" font-size="16">04  OVERCHARGE</text>
+  </g>
+</svg>
