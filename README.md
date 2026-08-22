@@ -1,40 +1,113 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Gavriell+Pangan;Aspiring+Software+Engineer;AI+%7C+Web+%7C+Game+Dev+Enthusiast" alt="Typing SVG" />
 
-  <p align="center">
-    <a href="https://github.com/L3V1TH5N?tab=repositories"><strong>Explore My Projects</strong></a> | 
-    <a href="mailto:gavriell.pangann@gmail.com"><strong>Contact Me</strong></a>
-  </p>
+<img src="./assets/profile-terminal.svg" alt="L3V1TH5N terminal profile" width="100%"/>
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-L3V1TH5N-78e05a?style=for-the-badge&logo=github&logoColor=black)](https://github.com/L3V1TH5N)
+[![Instagram](https://img.shields.io/badge/Instagram-gaavrielll-78e05a?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/gaavrielll)
+
 </div>
 
 ---
 
-### 🛠️ Technical Skills
+```text
+L3V1TH5N@github:~$ cat README.md
 
-*   **Languages:** JavaScript, Python, Java, PHP
-*   **Web Development:** React, Node.js, HTML5, CSS3, Tailwind, Bootstrap, MySQL, Firebase
-*   **Game & AI Development:** Unity, scikit-learn, TensorFlow
-*   **Design & Tools:** Blender, Adobe Photoshop, Adobe Illustrator
+> Computer Science student
+> Full-stack developer
+> 3D / interactive experience enthusiast
+> Building things that combine code, design, and experimentation.
+```
 
----
+## `> ABOUT_ME.EXE`
 
-### 📊 GitHub Activity
+I'm **Gavriell C. Pangan**, a Computer Science student and developer focused on building practical software and creative digital experiences.
+
+I enjoy working across the stack — from interfaces and backend systems to 3D simulations, AI experiments, and game development.
+
+```text
+CURRENT_MODE
+────────────
+[ WEB ]       ███████████████████░  90%
+[ 3D ]        ███████████████░░░░░  75%
+[ AI / ML ]   █████████████░░░░░░░  65%
+[ GAME DEV ]  ████████████░░░░░░░░  60%
+```
+
+## `> TECH_STACK.SH`
+
+| Category | Technologies |
+|---|---|
+| **Languages** | JavaScript · TypeScript · Python · Java · PHP · Dart · GDScript |
+| **Frontend** | React · Next.js · HTML5 · CSS3 · Tailwind · Bootstrap |
+| **Backend** | Node.js · Express · PHP |
+| **Databases** | MySQL · MongoDB · Firebase |
+| **3D / Creative** | Three.js · Blender · Godot |
+| **AI / ML** | Python · TensorFlow · scikit-learn |
+| **Tools** | Git · GitHub · VS Code · Postman |
+
+## `> CURRENTLY_LEARNING`
+
+```text
+[+] Advanced 3D Web Development
+[+] Three.js / WebGL
+[+] Machine Learning
+[+] AI-powered applications
+[+] Game Development
+[+] Better system architecture
+```
+
+## `> GITHUB_STATS.EXE`
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=L3V1TH5N&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=L3V1TH5N&theme=github_dark&hide_border=true&exclude=html" alt="Top Languages" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=L3V1TH5N&show_icons=true&hide_border=true&bg_color=050705&title_color=78e05a&text_color=bdbdbd&icon_color=78e05a&ring_color=78e05a" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3V1TH5N&layout=compact&hide_border=true&bg_color=050705&title_color=78e05a&text_color=bdbdbd" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=L3V1TH5N&theme=dark&hide_border=true&background=050705&ring=78e05a&fire=78e05a&currStreakLabel=78e05a" width="70%"/>
+
+</div>
+
+## `> ACTIVITY.LOG`
+
+```text
+[ SYSTEM ]
+──────────
+identity     : L3V1TH5N
+role         : developer / student
+location     : Philippines
+focus        : web / 3D / AI / software
+
+[ BUILD ]
+─────────
+learn → experiment → build → break → improve → repeat
+```
+
+## `> CONNECT`
+
+<div align="center">
+
+**Want to build something interesting?**
+
+[GitHub](https://github.com/L3V1TH5N) · [Instagram](https://instagram.com/gaavrielll)
+
 </div>
 
 ---
 
-### 🚀 Currently Learning
-*   **Flutter** for cross-platform mobile development.
-*   **Advanced Machine Learning** concepts.
-
----
-
 <div align="center">
-  <h3>☕ Support My Work</h3>
-  <a href="https://www.buymeacoffee.com/gaavvv" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210">
-  </a>
+
+```text
+THE BEST WAY TO PREDICT THE FUTURE
+IS TO CREATE IT.
+
+L3V1TH5N@github:~$ █
+```
+
 </div>
